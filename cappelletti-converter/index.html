@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cappelletti Converter</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Snippet&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1>Convertitore euro &rArr; cappelletti</h1>
+<p>Inserisci i soldi e guarda a quanti cappelletti corrispondono!</p>
+    <form class="container">
+      <div class="box euro">
+        <input id="euro" type="text" />
+        <img src="./euro.png" alt="euro" />
+      </div>
+
+      <button type="submit">&rArr;</button>
+
+      <div class="box cappelletti">
+        <input id="cappelletti" type="text" readonly />
+        <img
+          class="cappelletto-img"
+          src="./cappelletto-logo.png"
+          alt="cappelletti"
+        />
+      </div>
+    </form>
+
+    <div class="result"></div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
