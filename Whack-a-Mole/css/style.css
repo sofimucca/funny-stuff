@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: #f7ce15;
+  color: black;
+  font-weight: 600;
+  font-size: xx-large;
+  font-family: "Ranchers", cursive;
+}
+
+a {
+  color: black;
+}
+
+h1 {
+  cursor: default;
+}
+
+.content {
+  height: 60vh;
+  display: grid;
+  grid-template-columns: repeat(6, auto);
+  grid-template-rows: repeat(2, auto);
+  grid-row-gap: 60px;
+  grid-column-gap: 40px;
+  cursor: url(hammer.svg), auto !important;
+}
+
+.btn {
+  display: inline;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px;
+  background-color: #f7ac15;
+  border: transparent;
+  border-radius: 0.6rem;
+  font-weight: 600;
+  font-size: xx-large;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #f39c12;
+}
+.btn:focus {
+  outline: none;
+}
+
+.bush {
+  height: 150px;
+  width: 150px;
+  justify-content: center;
+  align-items: center;
+}
+
+.bush-img {
+  height: 150px;
+  width: 150px;
+  z-index: 0;
+  position: absolute;
+  overflow: hidden;
+}
+
+.mole,
+.bomb {
+  height: 130px;
+  width: 130px;
+  z-index: 1;
+  position: absolute;
+  overflow: hidden;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  display: none;
+}
+
+span {
+  cursor: default;
+}

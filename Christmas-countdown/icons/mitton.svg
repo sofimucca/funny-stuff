@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36.236" height="44" viewBox="0 0 36.236 44">
+  <title>mitton</title>
+  <g>
+    <rect x="1" y="33.759" width="28.069" height="9.241" rx="3" ry="3" fill="#efece8"/>
+    <path d="M3.448,11.428C3.448,5.692,8.523,1,14.725,1S26,5.692,26,11.428v6.553L28.9,15.3a4,4,0,0,1,5.211-.094,3.457,3.457,0,0,1-.021,5.126s-2.862,2.636-5.181,4.769A9,9,0,0,0,26,31.727v2.032H3.448Z" fill="#ea4460"/>
+    <g>
+      <line x1="15.155" y1="11.333" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="12.822" y1="9" x2="15.155" y2="11.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="17.488" y1="9" x2="15.155" y2="11.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="11.114" y1="13.667" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="7.926" y1="14.521" x2="11.114" y2="13.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="10.26" y1="10.479" x2="11.114" y2="13.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="11.114" y1="18.333" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="10.26" y1="21.521" x2="11.114" y2="18.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="7.926" y1="17.479" x2="11.114" y2="18.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="15.155" y1="20.667" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="17.488" y1="23" x2="15.155" y2="20.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="12.822" y1="23" x2="15.155" y2="20.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="19.197" y1="18.333" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="22.384" y1="17.479" x2="19.197" y2="18.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="20.051" y1="21.521" x2="19.197" y2="18.333" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="19.197" y1="13.667" x2="15.155" y2="16" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="20.051" y1="10.479" x2="19.197" y2="13.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="22.384" y1="14.521" x2="19.197" y2="13.667" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <g>
+      <line x1="8.155" y1="28" x2="10.155" y2="28" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="12.155" y1="28" x2="14.155" y2="28" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="16.155" y1="28" x2="18.155" y2="28" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="2"/>
+      <line x1="20.155" y1="28" x2="22.155" y2="28" fill="none" stroke="#f9f9f9" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <path d="M26.111,30.429H3.448v3.33H26V31.727A8.765,8.765,0,0,1,26.111,30.429Z" opacity="0.2"/>
+    <path d="M3.448,11.428C3.448,5.692,8.523,1,14.725,1S26,5.692,26,11.428v6.553L28.9,15.3a4,4,0,0,1,5.211-.094,3.457,3.457,0,0,1-.021,5.126s-2.862,2.636-5.181,4.769A9,9,0,0,0,26,31.727v2.032H3.448Z" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="1" y="33.759" width="28.069" height="9.241" rx="3" ry="3" fill="none" stroke="#2e313f" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

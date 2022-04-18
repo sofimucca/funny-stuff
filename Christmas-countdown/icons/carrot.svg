@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.393" height="44" viewBox="0 0 43.393 44">
+  <title>carrot</title>
+  <g>
+    <path d="M33.364,10.029A9.009,9.009,0,0,1,32.131,23.9L4.054,42.65a1.951,1.951,0,0,1-2.493-.216,1.98,1.98,0,0,1-.21-2.51L19.619,11.267a9.428,9.428,0,0,1,1.006-1.238A8.945,8.945,0,0,1,33.364,10.029Z" fill="#f4a071"/>
+    <path d="M33.364,18.891A9.144,9.144,0,0,1,32.131,19.9L4.053,38.65a1.986,1.986,0,0,1-1.985.148l-.717,1.126a1.98,1.98,0,0,0,.21,2.51,1.95,1.95,0,0,0,2.492.216L32.131,23.9a8.888,8.888,0,0,0,3.642-9.443A9.064,9.064,0,0,1,33.364,18.891Z" opacity="0.2"/>
+    <line x1="17.23" y1="15.014" x2="21.255" y2="19.039" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="20.261" y1="31.828" x2="16.227" y2="27.794" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="5.732" y1="33.052" x2="8.207" y2="35.527" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="33.364" y1="10.029" x2="39.973" y2="3.419" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="33.364" y1="10.029" x2="35.783" y2="1" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <line x1="33.364" y1="10.029" x2="42.393" y2="7.61" fill="none" stroke="#2e313f" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+    <path d="M33.364,10.029A9.009,9.009,0,0,1,32.131,23.9L4.054,42.65a1.951,1.951,0,0,1-2.493-.216,1.98,1.98,0,0,1-.21-2.51L19.619,11.267a9.428,9.428,0,0,1,1.006-1.238A8.945,8.945,0,0,1,33.364,10.029Z" fill="none" stroke="#2e313f" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

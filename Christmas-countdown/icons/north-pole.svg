@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="44.045" viewBox="0 0 17 44.045">
+  <title>north-pole</title>
+  <g>
+    <rect x="3.5" y="16" width="10" height="27.045" fill="#f9f9f9"/>
+    <path d="M13.184,12a6.5,6.5,0,1,0-9.368,0Z" fill="#f7c06f"/>
+    <rect x="1" y="12" width="15" height="4" rx="2" ry="2" fill="#f7c06f"/>
+    <path d="M2.2,9a6.474,6.474,0,0,0,1.618,3h9.368A6.474,6.474,0,0,0,14.8,9Z" opacity="0.2"/>
+    <path d="M8.5,4.5a3,3,0,0,1,3,3" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+      <polygon points="13.5 24.821 3.5 27.714 3.5 21.893 13.5 19 13.5 24.821" fill="#ea4460"/>
+      <polygon points="13.5 36.464 3.5 39.357 3.5 33.536 13.5 30.643 13.5 36.464" fill="#ea4460"/>
+    </g>
+    <rect x="3.5" y="16" width="10" height="3" opacity="0.2"/>
+    <g>
+      <polygon points="13.5 24.821 3.5 27.714 3.5 21.893 13.5 19 13.5 24.821" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+      <polygon points="13.5 36.464 3.5 39.357 3.5 33.536 13.5 30.643 13.5 36.464" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <path d="M13.184,12a6.5,6.5,0,1,0-9.368,0Z" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="1" y="12" width="15" height="4" rx="2" ry="2" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="3.5" y="16" width="10" height="27.045" fill="none" stroke="#2e313f" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

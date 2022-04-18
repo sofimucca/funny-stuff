@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <script src="app.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Ranchers&display=swap"
+      rel="stylesheet"
+    />
+    <title>Whack-a-Mole</title>
+  </head>
+  <body>
+    <h1>Wack-a-Mole!!!</h1>
+
+    <div id="content" class="content">
+      <div id="0" class="bush" style="grid-column: 2; grid-row: 1">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+      <div id="1" class="bush" style="grid-column: 4; grid-row: 1">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+      <div id="2" class="bush" style="grid-column: 6; grid-row: 1">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+      <div id="3" class="bush" style="grid-column: 1; grid-row: 2">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+      <div id="4" class="bush" style="grid-column: 3; grid-row: 2">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+      <div id="5" class="bush" style="grid-column: 5; grid-row: 2">
+        <img class="bush-img" src="img\hole.png" alt="bush" />
+        <img class="bomb" onclick="error(this)" src="img/bomb.png" />
+        <img
+          class="mole"
+          onclick="removeMoleByClick(this)"
+          src="img/mole.png"
+        />
+      </div>
+    </div>
+    <div>
+      <span id="points">Points</span>
+      <button class="btn" id="btn" onclick="startGame()">Start</button>
+      <span id="timer">Timer</span>
+    </div>
+  </body>
+</html>
